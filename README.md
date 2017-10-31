@@ -1,7 +1,7 @@
 # mexes_grounddecal_autoplacer
 Auto places groundecal metal patches on SpringRTS maps.
 
-Download this repo as an archive and extract to your map's .sdd folder.
+Download this repo as an archive and extract to your map's .sdd folder. Works best with lua metal configs. Should work with old-school image metalmaps as well.
 
 Also includes crystal featurering from Anarchid, enable it by uncommenting  --object	= "crystal.dae",  in crystalring.lua
 
