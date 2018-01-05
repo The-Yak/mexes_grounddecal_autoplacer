@@ -21,7 +21,8 @@ local featureDef	=	{
 	world				= "All Worlds",
 	useBuildingGroundDecal =true,
   buildingGroundDecalType = "crystaldecal.dds",
-  buildingGroundDecalSizeX = 6,
-  buildingGroundDecalSizeY = 6,
+  buildingGroundDecalDecaySpeed= 2.0,
+  buildingGroundDecalSizeX = 5,
+  buildingGroundDecalSizeY = 5,
 }
 return lowerkeys({crystalring = featureDef})
