@@ -11,7 +11,7 @@ function gadget:GetInfo()
 		license   = "PD",
 		layer     = -10,
 		enabled   = true
-	}a
+	}
 end
 
 ------------------------------------------------------------
